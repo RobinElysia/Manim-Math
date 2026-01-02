@@ -1,5 +1,5 @@
-from Function.tangent import AdvancedFunction
-from ML.LinearModel.LinearRegression import LinearRegression
+from function.tangent import AdvancedFunction
+from machinelearning.LinearModel.LinearRegression import LinearRegression
 import pandas as pd
 from manim import *
 
