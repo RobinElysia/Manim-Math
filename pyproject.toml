@@ -1,0 +1,10 @@
+[project]
+name = "manim-math"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "manim>=0.19.1",
+    "pandas>=2.3.3",
+    "sympy>=1.14.0",
+]
